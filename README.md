@@ -112,7 +112,7 @@ Contribuições são sempre bem vindas! ✨ Se você tiver sugestões, reportar 
 <br><br>
 
 <div align="center">
-  <h2>● ✨ ● ✨ ●</h2>
+  <strong>● ✨ ● ✨ ●</strong>
 </div>
 
 <br><br>
