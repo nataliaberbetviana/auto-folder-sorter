@@ -39,7 +39,7 @@
 ---
 <a id="descrição"></a>
 <h2 align="center">📝 Descrição</h2>
-O **Auto Folder Sorter** é um script leve e eficiente, escrito em **Python**, projetado para automatizar a organização de arquivos. Se você se depara constantemente com uma pasta de Downloads cheia de arquivos misturados (documentos, imagens, vídeos, etc.), este programa é a solução.
+O <strong>Auto Folder Sorter</strong> é um script leve e eficiente, escrito em <strong>Python</strong>, projetado para automatizar a organização de arquivos. Se você se depara constantemente com uma pasta de Downloads cheia de arquivos misturados (documentos, imagens, vídeos, etc.), este programa é a solução.
 <br><br>
 Ele monitora diretórios e, com base nos tipos de arquivo (extensões), move-os automaticamente para pastas predefinidas, ajudando a manter seu ambiente digital limpo e acessível.✨
 
@@ -53,6 +53,7 @@ Ele monitora diretórios e, com base nos tipos de arquivo (extensões), move-os 
   <li>⚡ <strong>Leve e Rápido:</strong> Executa em segundo plano sem consumir muitos recursos do sistema.</li>
   <li>🔧 <strong>Fácil de Configurar:</strong> Permite que o usuário adicione ou modifique os tipos de arquivo e seus destinos.</li>
 </ul>
+
 ---
 
 <h2 align="center">✅  Pré-requisitos</h2> 
@@ -83,13 +84,14 @@ Ele monitora diretórios e, com base nos tipos de arquivo (extensões), move-os 
 
 <a id="configuração"></a>
 <h2 align="center">⚙️ Configuração</h2>
-O **Auto Folder Sorter** foi feito para ser flexível! Você pode personalizar as pastas de destino e os tipos de arquivos que vão ser organizados. Para fazer isso, basta abrir o arquivo **config.json** com um editor de texto e fazer suas alterações.
+O <strong>Auto Folder Sorter</strong> foi feito para ser flexível! Você pode personalizar as pastas de destino e os tipos de arquivos que vão ser organizados. Para fazer isso, basta abrir o arquivo <strong>config.json</strong> com um editor de texto e fazer suas alterações.
 O arquivo já vem com uma configuração padrão, mas você pode adicionar ou modificar as regras.
+
 ---
 
 <a id="contribuição"></a>
 <h2 align="center">🤝 Contribuição</h2>
-Contribuições são sempre bem vindas! ✨ Se você tiver sugestões, reportar um bug ou quiser adicionar novas funcionalidades, por favor, abra uma **issue** ou um **pull request**.
+Contribuições são sempre bem vindas! ✨ Se você tiver sugestões, reportar um bug ou quiser adicionar novas funcionalidades, por favor, abra uma <strong>issue</strong> ou um <strong>pull request</strong>.
 
 <ul style="list-style-type:none;">
   <li>🍴 Faça um <em>fork</em> do projeto</li>
@@ -145,7 +147,7 @@ Contribuições são sempre bem vindas! ✨ Se você tiver sugestões, reportar 
 ---
 <a id="description-en"></a>
 <h2 align="center">📝 Description</h2>
-The **Auto Folder Sorter** is a light and efficient script, written in **Python**, designed to automate file organization. If you constantly find your Downloads folder filled with mixed files (documents, images, videos, etc.), this program is the solution.
+The <strong>Auto Folder Sorter</strong> is a light and efficient script, written in <strong>Python</strong>, designed to automate file organization. If you constantly find your Downloads folder filled with mixed files (documents, images, videos, etc.), this program is the solution.
 <br><br>
 It monitors directories and, based on file types (extensions), automatically moves them to predefined folders, helping you keep your digital environment clean and accessible.✨
 
@@ -189,11 +191,11 @@ It monitors directories and, based on file types (extensions), automatically mov
 
 <a id="configuration-en"></a>
 <h2 align="center">⚙️ Configuration</h2>
-The **Auto Folder Sorter** was made to be flexible! You can customize the destination folders and the file types that will be organized. To do this, simply open the **config.json** file with a text editor and make your changes.
+The <strong>Auto Folder Sorter</strong> was made to be flexible! You can customize the destination folders and the file types that will be organized. To do this, simply open the <strong>config.json</strong> file with a text editor and make your changes.
 
 <a id="contribution-en"></a>
 <h2 align="center">🤝 Contribution</h2>
-Contributions are always welcome! ✨ If you have suggestions, want to report a bug, or want to add new features, please open an **issue** or a **pull request**.
+Contributions are always welcome! ✨ If you have suggestions, want to report a bug, or want to add new features, please open an <strong>issue</strong> or a <strong>pull request<strong>.
 
 <ul style="list-style-type:none;">
   <li>🍴 Fork the project</li>
