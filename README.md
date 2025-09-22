@@ -108,7 +108,15 @@ Contribuições são sempre bem vindas! ✨ Se você tiver sugestões, reportar 
 </ul>
 
 <a id="english-version"></a>
-<h3 align="center"> *** </h3>
+
+<br><br>
+
+<div align="center">
+  <h1>● ✨ ● ✨ ●</h1>
+</div>
+
+<br><br>
+
 <a href="#portuguese-version">
     <img src="https://img.shields.io/badge/leia%20em-Português-green?style=for-the-badge&logo=appveyor" alt="Versão em Português|Portuguese Version">
   </a>
