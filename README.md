@@ -1,3 +1,4 @@
+<a id="top"></a>
 <a href="#english-version">
     <img src="https://img.shields.io/badge/read%20in-English-green?style=for-the-badge&logo=appveyor" alt="Versão em Inglês|English Version">
   </a>
@@ -211,4 +212,7 @@ Contributions are always welcome! ✨ If you have suggestions, want to report a 
 <a id="licença"></a>
 <div align="center">
   <img src="https://img.shields.io/github/license/nataliaberbetviana/auto-folder-sorter?style=for-the-badge&color=brightgreen" alt="Licença MIT">
+</div>
+<div align="right">
+  <a href="#top">Voltar ao Topo ⬆️</a>
 </div>
